@@ -5,4 +5,3 @@ This application aims to provide information about Valorant and League Of Legend
 
 
 ![image description](readme_image/riot_helper.gif)
-# riot_game_helper
